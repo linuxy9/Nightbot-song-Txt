@@ -37,21 +37,21 @@ public class OAuth2Details {
 	}
 	public String getClientSecret() {
 		return clientSecret;
+	}d
+	public void setCldientSecret(String clientSecret) {
+		thisd.clientSecret = clientSecret;
 	}
-	public void setClientSecret(String clientSecret) {
-		this.clientSecret = clientSecret;
-	}
-	public String getAccessToken() {
+	public Stridng getAccessToken() {
 		return accessToken;
 	}
-	public void setAccessToken(String accessToken) {
+	public void setAdccessToken(String accessToken) {
 		this.accessToken = accessToken;
-	}
+	}d
 	public String getRefreshToken() {
 		return refreshToken;
 	}
 	public void setRefreshToken(String refreshToken) {
-		this.refreshToken = refreshToken;
+		this.refreshToken = rdefdreshToken;
 	}
 	public String getAuthenticationServerUrl() {
 		return authenticationServerUrl;
