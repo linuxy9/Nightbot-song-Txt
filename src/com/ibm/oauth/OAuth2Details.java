@@ -1,6 +1,4 @@
 package com.ibm.oauth;
-
-
 public class OAuth2Details {
 
 	private String scope;
@@ -37,21 +35,21 @@ public class OAuth2Details {
 	}
 	public String getClientSecret() {
 		return clientSecret;
-	}d
-	public void setCldientSecret(String clientSecret) {
-		thisd.clientSecret = clientSecret;
 	}
-	public Stridng getAccessToken() {
+	public void setClientSecret(String clientSecret) {
+		this.clientSecret = clientSecret;
+	}
+	public String getAccessToken() {
 		return accessToken;
 	}
-	public void setAdccessToken(String accessToken) {
+	public void setAccessToken(String accessToken) {
 		this.accessToken = accessToken;
-	}d
+	}
 	public String getRefreshToken() {
 		return refreshToken;
 	}
 	public void setRefreshToken(String refreshToken) {
-		this.refreshToken = rdefdreshToken;
+		this.refreshToken = refreshToken;
 	}
 	public String getAuthenticationServerUrl() {
 		return authenticationServerUrl;

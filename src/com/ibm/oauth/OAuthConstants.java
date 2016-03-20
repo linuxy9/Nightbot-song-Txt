@@ -11,13 +11,13 @@ public class OAuthConstants {
 	public static final String CODE = "code";
 	public static final String CALLER = "caller";
 	public static final String AUTHENTICATION_SERVER_URL = "authentication_server_url";
-	public static final String CONFIG_FILE_PATH = "com/ibm/oauth/Oauth2Client.config";
+	public static final String CONFIG_FILE_PATH = "OAUTH.conf";
 	public static final String RESOURCE_SERVER_URL = "resource_server_url";
 	public static final String GRANT_TYPE = "grant_type";
 	public static final String GRANT_TYPE_PASSWORD = "password";
 	public static final String GRANT_TYPE_AUTHORIZATION_CODE = "authorization_code";
 	public static final String GRANT_TYPE_CLIENT_CREDENTIALS = "client_credentials";
-	public static final String SCOPE = "scope";
+	public static final String SCOPE = "song_requests";
 	public static final String AUTHORIZATION = "Authorization";
 	public static final String BEARER = "Bearer";
 	public static final String BASIC = "Basic";
