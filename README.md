@@ -3,16 +3,6 @@
 ## INTRO 
 
 
-Since the Beta of nightbot they would only do it on 64 bit hardware. leaving the 32-bit gone.... the Python made Currentsong folder is now history. 
-=======
-## INTRO
-
-
-Since the Beta of nightbot they would only do it on 64 bit hardware. leaving the 32-bit gone.... the Python made Currentsong folder is now history.
-
-
-there is still 32-bit computer comable with obs(open broadcast software), and twitch.tv
-
 ## WHAT IT DOES
 
 <<<<<<< HEAD
