@@ -17,12 +17,11 @@ public class WriteConfig  {
 	        config1.println("#===================================");
 	        config1.println("# DO NOT CHANGE ANY VALUES BELOW!");
 	        config1.println("#===================================");
-	        config1.println("authentication_server_url=https://api.nightbot.tv/oauth2/authorize");
-	        config1.println("resource_server_url=https://api.nightbot.tv/oauth2/token");
+	        config1.println("authentication_server_url=https://api.nightbot.tv/oauth2/token");
+	        config1.println("resource_server_url=https://api.nightbot.tv/oauth2/authorize");
 	        config1.println("#------------------------------------------------");
 	        config1.close();
 		}     
 		
 		
 	}
-
