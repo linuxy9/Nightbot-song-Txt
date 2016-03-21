@@ -1,6 +1,4 @@
 package org.linuxy.config;
-import org.linuxy.etc.AuthPW;
-
 import java.util.Scanner;
 
 public class scanner {

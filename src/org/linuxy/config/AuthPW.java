@@ -1,4 +1,4 @@
-package org.linuxy.etc;
+package org.linuxy.config;
 
 public class AuthPW {
 	
